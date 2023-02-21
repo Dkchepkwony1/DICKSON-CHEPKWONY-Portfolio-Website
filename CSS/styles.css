@@ -19,7 +19,37 @@
   border-radius: 10px;
   background-color: #f02da5;
 }
+.format{
+  font-size: 23px;
+  width: 650px;
+  height: 420px;
+  float:left;
+  margin: 5px;
+  padding: 4px;
+  border-radius: 10px;
+  background-color: #0dd8f3;
+}
+.format1{
+  font-size: 23px;
+  width: 750px;
+  height: 450px;
+  float:right;
+  margin: 5px;
+  padding: 4px;
+  border-radius: 10px;
+  background-color: #0dd8f3;
+}
 
+.format3{
+  font-size: 15px;
+  width: 650px;
+  height: 900x;
+  float:left;
+  margin: 5px;
+  padding: 4px;
+  border-radius: 10px;
+  background-color: #0dd8f3;
+}
 
 @media screen and (min-width: 1000px) {
   body {
@@ -27,6 +57,5 @@
         }
   p { color: white; font-size: 16px; font-weight: 1000; }
   h2 {color: rgb(240, 8, 8); font-weight: 1000}
-  ul {color: rgb(19, 3, 245);font-size:20px}
-
+  ul {color: rgb(19, 3, 245)}
   }
