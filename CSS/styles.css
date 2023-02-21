@@ -1,6 +1,5 @@
 .column {
   font-size: 21px;
-  border: 2px solid blue;
   padding: 6px;
   width: 550px;
   height: 320px;
@@ -16,11 +15,18 @@
   height: 320px;
   float:right;
   margin: 10px;
-  border: 2px solid blue;
   padding: 6px;
   border-radius: 10px;
   background-color: #f02da5;
 }
-.span1 {
-border: ;
-}
+
+
+@media screen and (min-width: 1000px) {
+  body {
+    background-color: yellowgreen;
+        }
+  p { color: white; font-size: 16px; font-weight: 1000; }
+  h2 {color: rgb(240, 8, 8); font-weight: 1000}
+  ul {color: rgb(19, 3, 245);font-size:20px}
+
+  }
