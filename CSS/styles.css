@@ -1,0 +1,22 @@
+.column {
+  font-size: 21px;
+  border: 2px solid blue;
+  padding: 6px;
+  width: 700px;
+  height: 350px;
+  float: left;
+  margin: 10px;
+  border-radius: 8px;
+  background-color: rgb(233, 34, 206);
+  }
+  
+.column1 {
+  font-size: 25px;
+  width: 700px;
+  float:right;
+  margin: 10px;
+  border: 2px solid blue;
+  padding: 6px;
+  border-radius: 8px;
+  background-color: #f02da5;
+}
