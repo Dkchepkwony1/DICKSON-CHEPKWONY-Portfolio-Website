@@ -2,21 +2,25 @@
   font-size: 21px;
   border: 2px solid blue;
   padding: 6px;
-  width: 700px;
-  height: 350px;
+  width: 550px;
+  height: 320px;
   float: left;
   margin: 10px;
-  border-radius: 8px;
-  background-color: rgb(233, 34, 206);
-  }
+  border-radius: 10px;
+  background-color: #f02da5;
+}
   
 .column1 {
-  font-size: 25px;
-  width: 700px;
+  font-size: 23px;
+  width: 550px;
+  height: 320px;
   float:right;
   margin: 10px;
   border: 2px solid blue;
   padding: 6px;
-  border-radius: 8px;
+  border-radius: 10px;
   background-color: #f02da5;
+}
+.span1 {
+border: ;
 }
