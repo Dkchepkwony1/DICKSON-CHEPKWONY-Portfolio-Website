@@ -1,21 +1,21 @@
 .column {
   font-size: 21px;
-  padding: 6px;
-  width: 550px;
+  padding: 0px;
+  width: 50%;
   height: 320px;
   float: left;
-  margin: 5px;
+  margin: auto;
   border-radius: 10px;
   background-color: #f02da5;
 }
   
 .column1 {
   font-size: 23px;
-  width: 550px;
+  width: 50%;
   height: 320px;
-  float:right;
-  margin: 5px;
-  padding: 6px;
+  float:left;
+  margin: auto;
+  padding: 0px;
   border-radius: 10px;
   background-color: #f02da5;
 }
@@ -66,7 +66,6 @@
   border-radius: 10px;
   background-color: #e9e504;
 }
-
 .format6 {
   width: 60%;
   height: 550px;
@@ -106,7 +105,6 @@
   border-radius: 10px;
   background-color: #e9e504;
 }
-
 
 @media screen and (min-width: 600px) and (max-width: 1500px) {
   body {
