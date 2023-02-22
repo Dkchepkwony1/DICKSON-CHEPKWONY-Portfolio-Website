@@ -1,5 +1,6 @@
+
 .gfg {
-  margin: 3%;
+  margin: 2%;
   position: relative;
 }
 
@@ -11,7 +12,6 @@
   color: white;
   
 }
-
 .second-txt {
   position: absolute;
   bottom: -20px;
@@ -19,6 +19,15 @@
   font-size:xx-large;
   color:  white;
 }
+  .details {
+    position:absolute;
+    top: 300px;
+    left: 400px;
+    font-size:xx-large;
+    font-style: italic;
+    color:  black
+  }
+
 .span {
   color: crimson;
 }
@@ -46,88 +55,89 @@
 .format1{
 
   width: 40%;
+  height: 200px;
   float:left;
   padding: 0px;
   margin:auto;
-  border:auto;
   border-radius: 10px;
-  background-color: #e9e504;
+  overflow: auto;
 }
 .format2{
   width: 60%;
+  height: 200px;
   float:left;
   padding:0px;
   margin: auto;
-  border:auto;
   border-radius: 10px;
-  background-color: #e9e504;
+  overflow: auto;
 }
 
 .format3 {
   width: 40%;
-  height:520px;
+  height:200px;
   float:left;
   padding: 0px;
   margin:auto;
   border-radius: 10px;
-  background-color: #e9e504;
+  overflow: scroll;
+  
 }
 .format4 {
   width: 60%;
-  height:520px;
+  height:200px;
   float:left;
   padding: 0px;
   margin:auto;
   border-radius: 10px;
-  background-color: #e9e504;
+  overflow: scroll;
+  
 }
 .format5 {
   width: 40%;
-  height: 550px;
+  height: 200px;
   float:left;
   padding: 0px;
   margin: auto;
   border-radius: 10px;
-  background-color: #e9e504;
+  overflow: scroll;
+  
 }
 .format6 {
   width: 60%;
-  height: 550px;
+  height: 200px;
   float:left;
   margin: auto;
   padding: 0px;
   border-radius: 10px;
-  background-color: #e9e504;
+  overflow: scroll;
 }
 
 .format7 {
-  width: 450px;
+  width: 1200px;
   float:left;
   margin: auto;
   padding: 0px;
   border-radius: 10px;
-  background-color: #e9e504;
+  overflow: scroll;
 }
 
 .format8 {
   font-size: 15px;
-  width: 1450px;
+  width: 1200px;
   height: 150px;
   float:left;
   margin: 5px;
   padding: 4px;
   border-radius: 10px;
-  background-color: #e9e504;
 }
 .format9 {
   font-size: 15px;
-  width: 1450px;
+  width: 1200px;
   height: 180px;
   float:left;
   margin: 5px;
   padding: 4px;
   border-radius: 10px;
-  background-color: #e9e504;
 }
 
 @media screen and (min-width: 600px) and (max-width: 1500px) {
