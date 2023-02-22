@@ -20,79 +20,71 @@
   background-color: #f02da5;
 }
 .format1{
-  font-size: 17px;
-  width: 720px;
-  height: 400px;
+
+  width: 40%;
   float:left;
-  margin: 5px;
-  padding: 4px;
+  padding: 0px;
+  margin:auto;
+  border:auto;
   border-radius: 10px;
   background-color: #e9e504;
 }
 .format2{
-  font-size: 17px;
-  width: 720px;
-  height: 400px;
-  float:right;
-  margin: 5px;
-  padding: 4px;
+  width: 60%;
+  float:left;
+  padding:0px;
+  margin: auto;
+  border:auto;
   border-radius: 10px;
   background-color: #e9e504;
 }
 
 .format3 {
-  font-size: 15px;
-  width: 720px;
-  height: 490px;
+  width: 40%;
+  height:520px;
   float:left;
-  margin: 5px;
-  padding: 4px;
+  padding: 0px;
+  margin:auto;
   border-radius: 10px;
   background-color: #e9e504;
 }
 .format4 {
-  font-size: 15px;
-  width: 720px;
-  height: 490px;
-  float:right;
-  margin: 5px;
-  padding: 4px;
+  width: 60%;
+  height:520px;
+  float:left;
+  padding: 0px;
+  margin:auto;
   border-radius: 10px;
   background-color: #e9e504;
 }
 .format5 {
-  font-size: 15px;
-  width: 720px;
-  height: 510px;
+  width: 40%;
+  height: 550px;
   float:left;
-  margin: 5px;
-  padding: 4px;
+  padding: 0px;
+  margin: auto;
   border-radius: 10px;
   background-color: #e9e504;
 }
 
 .format6 {
-  font-size: 15px;
-  width: 720px;
-  height: 510px;
-  float:right;
-  margin: 5px;
-  padding: 4px;
+  width: 60%;
+  height: 550px;
+  float:left;
+  margin: auto;
+  padding: 0px;
   border-radius: 10px;
   background-color: #e9e504;
 }
 
 .format7 {
-  font-size: 15px;
-  width: 720px;
-  height: 440px;
+  width: 450px;
   float:left;
-  margin: 5px;
-  padding: 4px;
+  margin: auto;
+  padding: 0px;
   border-radius: 10px;
   background-color: #e9e504;
 }
-
 
 .format8 {
   font-size: 15px;
@@ -114,6 +106,8 @@
   border-radius: 10px;
   background-color: #e9e504;
 }
+
+
 @media screen and (min-width: 600px) and (max-width: 1500px) {
   body {
     background-color: yellowgreen;
