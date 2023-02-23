@@ -122,8 +122,8 @@
   border-radius: 10px;
   border-collapse: collapse;
   overflow: auto;
-  font-family:sans-serif;
   }
+
 .format2{
   width: 50%;
   height: 200px;
@@ -132,7 +132,6 @@
   margin-bottom: 15px;
   border-radius: 10px;
   overflow: auto;
-  font-family:sans-serif;
   }
 
 .format3 {
@@ -143,8 +142,8 @@
   margin-bottom: 15px;
   border-radius: 10px;
   overflow: auto;
-  font-family:sans-serif;
   }
+
 .format4 {
   width: 50%;
   height:200px;
@@ -153,7 +152,7 @@
   margin-bottom: 15px;
   border-radius: 10px;
   overflow: auto;
-  font-family:sans-serif;
+
   }
 .format5 {
   width: 50%;
@@ -163,8 +162,8 @@
   margin-bottom: 15px;
   border-radius: 10px;
   overflow: auto;
-  font-family:sans-serif;
   }
+
 .format6 {
   width: 50%;
   height: 200px;
@@ -173,7 +172,6 @@
   padding: 0px;
   border-radius: 10px;
   overflow: auto;
-  font-family:sans-serif;
   }
 
 .format7 {
@@ -197,6 +195,9 @@
   font-family:sans-serif;
   }
 
+ul {
+  color:rgb(6, 0, 15)
+}
 @media screen and (min-width: 600px) and (max-width: 1500px) {
   body {
     background-color: yellowgreen;
@@ -204,5 +205,5 @@
         }
   p { color: white; font-size: 16px; font-weight: 800; }
   h2 {color: rgb(240, 8, 8); font-weight: 1000}
-  ul {color: white}
+  ul {color: yellow}
   }
