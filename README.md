@@ -25,6 +25,8 @@
   <li>[media-query-practice](https://github.com/Dkchepkwony1/media-query-practice.git)<li>
   <li>[my-first-webpage](https://github.com/Dkchepkwony1/my-first-webpage.git)<li>
 </ul>
-## Copyright and License
-  **MIT** 
-  **Copyright Dickson 2023**
+<h1><strong>Copyright and License</strong></h1>
+<ul>
+  <li>MIT</li>
+  <li>Copyright Dickson 2023</li>
+</ul>
