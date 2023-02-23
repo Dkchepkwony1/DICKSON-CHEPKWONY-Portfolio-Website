@@ -26,15 +26,57 @@
   font-size:xx-large;
   color:  white;
 }
-  .details {
+.details {
     position:absolute;
     top: 300px;
     left: 400px;
     font-size:xx-large;
     font-style: italic;
-    color:  black
+    color:  black;
   }
-
+.titles1 {
+  width: 50%;
+  height: 10px;
+  float:left;
+  padding: 0px;
+  margin-bottom: 30px;
+  }
+.titles2 {
+  width: 50%;
+  height: 10px;
+  float:left;
+  padding: 0px;
+  margin-bottom: 30px;
+  }
+.titles3 {
+    width: 50%;
+    height: 10px;
+    float:left;
+    padding: 0px;
+    margin-bottom: 30px;
+   }  
+.titles4 {
+    width: 50%;
+    height: 10px;
+    float:left;
+    padding: 0px;
+    margin-bottom: 30px
+  }
+  .titles5 {
+    width: 50%;
+    height: 10px;
+    float:left;
+    padding: 0px;
+    margin-bottom: 30px
+  }
+  .titles6 {
+    width: 50%;
+    height: 10px;
+    float:left;
+    padding: 0px;
+    margin-bottom: 30px
+  }
+  
 .span {
   color: crimson;
 }
@@ -64,12 +106,11 @@
   background-color: #f02da5;
 }
 .format1{
-
   width: 50%;
   height: 200px;
   float:left;
   padding: 0px;
-  margin:auto;
+  margin-bottom: 15px;
   border-radius: 10px;
   border-collapse: collapse;
   overflow: auto;
@@ -80,7 +121,7 @@
   height: 200px;
   float:left;
   padding:0px;
-  margin: auto;
+  margin-bottom: 15px;
   border-radius: 10px;
   overflow: auto;
   font-family:sans-serif;
@@ -91,7 +132,7 @@
   height:200px;
   float:left;
   padding: 0px;
-  margin:auto;
+  margin-bottom: 15px;
   border-radius: 10px;
   overflow: auto;
   font-family:sans-serif;
@@ -101,7 +142,7 @@
   height:200px;
   float:left;
   padding: 0px;
-  margin:auto;
+  margin-bottom: 15px;
   border-radius: 10px;
   overflow: auto;
   font-family:sans-serif;
@@ -112,7 +153,7 @@
   height: 200px;
   float:left;
   padding: 0px;
-  margin: auto;
+  margin-bottom: 15px;
   border-radius: 10px;
   overflow: auto;
   font-family:sans-serif;
@@ -122,7 +163,7 @@
   width: 50%;
   height: 200px;
   float:left;
-  margin: auto;
+  margin-bottom: 15px;
   padding: 0px;
   border-radius: 10px;
   overflow: auto;
@@ -131,8 +172,9 @@
 
 .format7 {
   width: 50%;
+  height: 200px;
   float:left;
-  margin: auto;
+  margin-bottom: 15px;
   padding: 0px;
   border-radius: 10px;
   overflow: auto;
@@ -142,13 +184,13 @@
 .format8 {
   width: 50%;
   float:left;
-  margin: auto;
+  margin-bottom: 30px;
   padding: 0px;
   overflow: auto;
   border-radius: 10px;
   font-family:sans-serif;
+  
 }
-
 
 @media screen and (min-width: 600px) and (max-width: 1500px) {
   body {
