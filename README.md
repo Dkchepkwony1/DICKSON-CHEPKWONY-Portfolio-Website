@@ -20,10 +20,12 @@
 ## Support and contacts
   **For any inquiries and assist reach me on dickchep@yahoo.com**
 ## Links
-  **[media-query-practice](https://github.com/Dkchepkwony1/media-query-practice.git)**
-  **[media-query-practice](https://github.com/Dkchepkwony1/media-query-practice.git)**
-  **[my-first-webpage](https://github.com/Dkchepkwony1/my-first-webpage.git)**
-
+<ul>
+  <li>[media-query-practice](https://github.com/Dkchepkwony1/media-query-practice.git)<li>
+  <li>[media-query-practice](https://github.com/Dkchepkwony1/media-query-practice.git)<li>
+  <li>[media-query-practice](https://github.com/Dkchepkwony1/media-query-practice.git)<li>
+  <li>[my-first-webpage](https://github.com/Dkchepkwony1/my-first-webpage.git)<li>
+</ul>
 ## copyright and License
   **MIT** 
  **Copyright Dickson 2023**
