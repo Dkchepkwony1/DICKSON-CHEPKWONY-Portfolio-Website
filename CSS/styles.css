@@ -118,7 +118,7 @@
 }
 
 .format7 {
-  width: 1200px;
+  width: 40%;
   float:left;
   margin: auto;
   padding: 0px;
@@ -153,5 +153,5 @@
         }
   p { color: rgb(245, 8, 166); font-size: 16px; font-weight: 1000; }
   h2 {color: rgb(240, 8, 8); font-weight: 1000}
-  ul {color: rgb(19, 3, 245)}
+  ul {color: white}
   }
