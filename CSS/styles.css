@@ -1,4 +1,11 @@
 
+.about{
+  color: orange;
+  font-size: 100px;
+  font-family:Arial, Helvetica, sans-serif;
+  border-color: #f02da5;
+  
+}
 .gfg {
   margin: 2%;
   position: relative;
@@ -31,6 +38,10 @@
 .span {
   color: crimson;
 }
+.main {
+  color:rgb(255, 0, 0);
+  font-weight: bolder;
+}
 .column {
   font-size: 21px;
   padding: 0px;
@@ -54,17 +65,18 @@
 }
 .format1{
 
-  width: 40%;
+  width: 50%;
   height: 200px;
   float:left;
   padding: 0px;
   margin:auto;
   border-radius: 10px;
+  border-collapse: collapse;
   overflow: auto;
   font-family:sans-serif;
 }
 .format2{
-  width: 60%;
+  width: 50%;
   height: 200px;
   float:left;
   padding:0px;
@@ -75,7 +87,7 @@
 }
 
 .format3 {
-  width: 40%;
+  width: 50%;
   height:200px;
   float:left;
   padding: 0px;
@@ -85,7 +97,7 @@
   font-family:sans-serif;
 }
 .format4 {
-  width: 60%;
+  width: 50%;
   height:200px;
   float:left;
   padding: 0px;
@@ -96,7 +108,7 @@
   
 }
 .format5 {
-  width: 40%;
+  width: 50%;
   height: 200px;
   float:left;
   padding: 0px;
@@ -107,7 +119,7 @@
   
 }
 .format6 {
-  width: 60%;
+  width: 50%;
   height: 200px;
   float:left;
   margin: auto;
@@ -118,7 +130,7 @@
 }
 
 .format7 {
-  width: 40%;
+  width: 50%;
   float:left;
   margin: auto;
   padding: 0px;
@@ -128,30 +140,22 @@
 }
 
 .format8 {
-  font-size: 15px;
-  width: 1200px;
-  height: 150px;
+  width: 50%;
   float:left;
-  margin: 5px;
-  padding: 4px;
+  margin: auto;
+  padding: 0px;
+  overflow: auto;
   border-radius: 10px;
+  font-family:sans-serif;
 }
-.format9 {
-  font-size: 15px;
-  width: 1200px;
-  height: 180px;
-  float:left;
-  margin: 5px;
-  padding: 4px;
-  border-radius: 10px;
-}
+
 
 @media screen and (min-width: 600px) and (max-width: 1500px) {
   body {
     background-color: yellowgreen;
     background-image:url(/img/Nairobi\ Skyline.png)
         }
-  p { color: rgb(245, 8, 166); font-size: 16px; font-weight: 1000; }
+  p { color: white; font-size: 16px; font-weight: 800; }
   h2 {color: rgb(240, 8, 8); font-weight: 1000}
   ul {color: white}
   }
