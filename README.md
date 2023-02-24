@@ -1,7 +1,7 @@
 # ABOUT ME WEBPAGE
       
 ### By Dickson Kiplangat Chepkwony
-  **[Profile](https://github.com/Dkchepkwony1 "Dickson Chepkwony")**
+  **[Profile](https://Dkchepkwony1.github.io "Dickson Chepkwony")**
 
 ## Description
   **This code gives an insight about my web design endeavors. It showcase my foundational coding expedition, my educational background and job experience.**
@@ -14,9 +14,12 @@
 ## Future features and updates
 **To improve further the layout of this web page as my coding knowledge improves**
 ## Technologies used
-  **HTML**
-  **CSS**
-  **Ubuntu wsl**
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Ubuntu</li>
+  <li>VS Editor</li>
+</ul>
 ## Support and contacts
   **For any inquiries and assist reach me on dickchep@yahoo.com**
 ## Links
@@ -28,5 +31,5 @@
 <h1><strong>Copyright and License</strong></h1>
 <ul>
   <li>MIT</li>
-  <li>Copyright Dickson 2023</li>
+  <li>Copyright Dickson Chepkwony 2023</li>
 </ul>
