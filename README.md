@@ -1,7 +1,7 @@
 # ABOUT ME WEBPAGE
       
 ### By Dickson Kiplangat Chepkwony
-  **[Profile](https://Dkchepkwony1.github.io "Dickson Chepkwony")**
+  **[Profile Webpage](https://Dkchepkwony1.github.io "Dickson Chepkwony")**
 
 ## Description
   **This code gives an insight about my web design endeavors. It showcase my foundational coding expedition, my educational background and job experience.**
